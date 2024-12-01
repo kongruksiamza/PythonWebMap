@@ -1,7 +1,3 @@
-## 🚀 Guideline & Documents
-- แนวทางการเรียนรู้การเขียนโปรแกรมภาษา Python (Python Guideline) [อ่านบทความ](https://github.com/kongruksiamza/python-guideline)
-- เอกสารสอนเขียนโปรแกรมฟรี (.pdf) [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education)
-
 ## 📢 ติดตามข่าวสารอื่นๆของเราได้ที่
 <div id="badges">
   <a href="https://www.facebook.com/KongRuksiamTutorial" target="_blank">
